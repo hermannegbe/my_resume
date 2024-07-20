@@ -1,7 +1,3 @@
-baseURL = 'http://localhost:1313/'
-languageCode = 'en-us'
-title = 'My Resume Website'
-theme = 'ananke'
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
