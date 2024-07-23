@@ -11,7 +11,7 @@ draft = true
 ### **About me**
  Am called Kankeu Egbe N. Hermann Tresor. Am an undergraduate at Landmark Metropolitan University (L.M.U) studying Software Engineering. Am currently an intern at Iknite SPace, seeking technical skills in becoming a Software Engineer
 
-### :phone:**Contact me**
+### **Contact information**
 + **_Cell_** :telephone_receiver: +(237)678470441
 
 - **_Email_** :email:[hermannegbe8@gmail.com](hermannegbe8@gmail.com)
@@ -27,6 +27,9 @@ draft = true
  Diligent Biligual College Kumba
 
  2020-2021
+
+ ## skills
+  **Programing languages:** html css javascript
 
 ### **pojects** 
 + **_CV/mini resume_**
